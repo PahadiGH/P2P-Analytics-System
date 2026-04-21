@@ -1,0 +1,301 @@
+POID,VendorID,VendorName,Category,Material,LeadTimeDays,Quantity,TotalAmount,F1_VendorRisk,F2_LeadTimeRisk,F3_QuantityRisk,F4_CategoryRisk,DelayRiskScore,DelayRiskLevel,DeliveryDelayDays,IsLateDelivery
+PO00001,V0001,Alpha Tech Supplies,Electronics,Printer,28,129,626532.36,12.0,10,5.17,12.74,39.91,🟡 MEDIUM — Monitor Closely,3.0,1
+PO00002,V0009,Iota Steel Works,Hardware,Diesel Generator,39,233,15391.98,18.67,10,9.34,7.57,45.58,🟡 MEDIUM — Monitor Closely,12.0,1
+PO00003,V0012,Mu Chemical Corp,Raw Materials,Server Rack,45,312,322798.32,12.0,10,12.51,12.35,46.86,🟡 MEDIUM — Monitor Closely,20.0,1
+PO00004,V0010,Kappa Office Supplies,Consulting,Chemical Solvent,22,476,879053.0,28.57,10,19.08,10.53,68.18,🔴 HIGH — Likely Delayed,,0
+PO00005,V0018,Sigma Plastics Co,Packaging,Ethernet Cable,37,418,164106.8,15.24,10,16.75,15.0,56.99,🔴 HIGH — Likely Delayed,,0
+PO00006,V0007,Eta Global Traders,Chemicals,Aluminium Sheet,26,447,1364530.08,20.0,10,17.92,7.78,55.7,🔴 HIGH — Likely Delayed,,0
+PO00007,V0008,Theta Packaging Co,Packaging,Steel Rod,8,232,150561.04,17.5,5,9.3,15.0,46.8,🟡 MEDIUM — Monitor Closely,,0
+PO00008,V0002,BetaCore Industries,Raw Materials,Chemical Solvent,9,4,1605.68,16.0,5,0.16,12.35,33.51,🟢 LOW — Likely On Time,-4.0,0
+PO00009,V0007,Eta Global Traders,Chemicals,Aluminium Sheet,43,143,480685.92,20.0,10,5.73,7.78,43.51,🟡 MEDIUM — Monitor Closely,,0
+PO00010,V0004,Delta Manufacturing,IT Services,Printer,29,414,854889.3,17.78,10,16.59,9.27,53.64,🟡 MEDIUM — Monitor Closely,,0
+PO00011,V0004,Delta Manufacturing,IT Services,Office Chair,28,345,1133187.0,17.78,10,13.83,9.27,50.88,🟡 MEDIUM — Monitor Closely,-2.0,0
+PO00012,V0014,Xi Furniture Works,IT Services,Server Rack,36,275,624426.0,18.46,10,11.02,9.27,48.75,🟡 MEDIUM — Monitor Closely,9.0,1
+PO00013,V0018,Sigma Plastics Co,Packaging,Laptop,22,51,15320.91,15.24,10,2.04,15.0,42.28,🟡 MEDIUM — Monitor Closely,17.0,1
+PO00014,V0002,BetaCore Industries,Raw Materials,Server Rack,7,110,476302.2,16.0,5,4.41,12.35,37.76,🟡 MEDIUM — Monitor Closely,,0
+PO00015,V0018,Sigma Plastics Co,Packaging,Software License,19,217,759094.21,15.24,5,8.7,15.0,43.94,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00016,V0011,Lambda Logistics,Electronics,Office Chair,44,377,1030668.99,15.65,10,15.11,12.74,53.5,🟡 MEDIUM — Monitor Closely,,0
+PO00017,V0003,Gamma Solutions Ltd,Office Supplies,Fire Extinguisher,22,42,179094.3,10.67,10,1.68,9.4,31.75,🟢 LOW — Likely On Time,,0
+PO00018,V0020,Upsilon AutoParts,Consulting,Steel Rod,44,297,888882.39,15.0,10,11.9,10.53,47.43,🟡 MEDIUM — Monitor Closely,,0
+PO00019,V0008,Theta Packaging Co,Packaging,Plastic Mold,15,343,1233136.45,17.5,5,13.75,15.0,51.25,🟡 MEDIUM — Monitor Closely,15.0,1
+PO00020,V0019,Tau Energy Systems,Hardware,Printer,41,5,11592.55,9.41,10,0.2,7.57,27.18,🟢 LOW — Likely On Time,16.0,1
+PO00021,V0008,Theta Packaging Co,Packaging,Network Switch,17,452,176515.04,17.5,5,18.12,15.0,55.62,🔴 HIGH — Likely Delayed,,0
+PO00022,V0018,Sigma Plastics Co,Packaging,Electric Motor,15,271,24043.12,15.24,5,10.86,15.0,46.1,🟡 MEDIUM — Monitor Closely,7.0,1
+PO00023,V0020,Upsilon AutoParts,Consulting,A4 Paper Ream,20,80,111849.6,15.0,5,3.21,10.53,33.74,🟢 LOW — Likely On Time,8.0,1
+PO00024,V0009,Iota Steel Works,Hardware,Office Chair,28,48,153106.08,18.67,10,1.92,7.57,38.16,🟡 MEDIUM — Monitor Closely,-5.0,0
+PO00025,V0018,Sigma Plastics Co,Packaging,Laptop,11,283,1002683.15,15.24,5,11.34,15.0,46.58,🟡 MEDIUM — Monitor Closely,13.0,1
+PO00026,V0005,Epsilon Electronics,Logistics,Office Chair,30,283,221605.98,13.33,10,11.34,6.35,41.02,🟡 MEDIUM — Monitor Closely,-5.0,0
+PO00027,V0012,Mu Chemical Corp,Raw Materials,Aluminium Sheet,16,128,428968.96,12.0,5,5.13,12.35,34.48,🟢 LOW — Likely On Time,8.0,1
+PO00028,V0011,Lambda Logistics,Electronics,Packaging Box,24,13,12191.92,15.65,10,0.52,12.74,38.91,🟡 MEDIUM — Monitor Closely,2.0,1
+PO00029,V0007,Eta Global Traders,Chemicals,Consulting Hours,26,440,1047164.8,20.0,10,17.64,7.78,55.42,🔴 HIGH — Likely Delayed,-2.0,0
+PO00030,V0009,Iota Steel Works,Hardware,Steel Rod,29,99,200218.59,18.67,10,3.97,7.57,40.21,🟡 MEDIUM — Monitor Closely,,0
+PO00031,V0004,Delta Manufacturing,IT Services,Plastic Mold,44,170,798867.4,17.78,10,6.81,9.27,43.86,🟡 MEDIUM — Monitor Closely,7.0,1
+PO00032,V0011,Lambda Logistics,Electronics,Packaging Box,31,223,392736.45,15.65,10,8.94,12.74,47.33,🟡 MEDIUM — Monitor Closely,,0
+PO00033,V0017,Rho Consulting Group,Chemicals,Aluminium Sheet,30,363,801678.24,13.33,10,14.55,7.78,45.66,🟡 MEDIUM — Monitor Closely,,0
+PO00034,V0004,Delta Manufacturing,IT Services,Electric Motor,33,320,513241.6,17.78,10,12.83,9.27,49.88,🟡 MEDIUM — Monitor Closely,-3.0,0
+PO00035,V0014,Xi Furniture Works,IT Services,Industrial Fan,43,284,193139.88,18.46,10,11.38,9.27,49.11,🟡 MEDIUM — Monitor Closely,15.0,1
+PO00036,V0014,Xi Furniture Works,IT Services,Conveyor Belt,36,156,229354.32,18.46,10,6.25,9.27,43.98,🟡 MEDIUM — Monitor Closely,,0
+PO00037,V0006,Zeta Raw Materials,Manufacturing,Steel Rod,39,262,626774.74,10.0,10,10.5,8.13,38.63,🟡 MEDIUM — Monitor Closely,,0
+PO00038,V0007,Eta Global Traders,Chemicals,Ethernet Cable,9,345,547370.1,20.0,5,13.83,7.78,46.61,🟡 MEDIUM — Monitor Closely,15.0,1
+PO00039,V0019,Tau Energy Systems,Hardware,A4 Paper Ream,38,234,491746.32,9.41,10,9.38,7.57,36.36,🟡 MEDIUM — Monitor Closely,,0
+PO00040,V0004,Delta Manufacturing,IT Services,Packaging Box,18,353,27339.85,17.78,5,14.15,9.27,46.2,🟡 MEDIUM — Monitor Closely,,0
+PO00041,V0004,Delta Manufacturing,IT Services,Consulting Hours,36,128,587709.44,17.78,10,5.13,9.27,42.18,🟡 MEDIUM — Monitor Closely,,0
+PO00042,V0017,Rho Consulting Group,Chemicals,Packaging Box,17,418,1509151.38,13.33,5,16.75,7.78,42.86,🟡 MEDIUM — Monitor Closely,,0
+PO00043,V0017,Rho Consulting Group,Chemicals,Software License,24,431,1381967.02,13.33,10,17.27,7.78,48.38,🟡 MEDIUM — Monitor Closely,,0
+PO00044,V0011,Lambda Logistics,Electronics,Aluminium Sheet,15,121,168793.79,15.65,5,4.85,12.74,38.24,🟡 MEDIUM — Monitor Closely,16.0,1
+PO00045,V0003,Gamma Solutions Ltd,Office Supplies,Packaging Box,28,79,280194.83,10.67,10,3.17,9.4,33.24,🟢 LOW — Likely On Time,,0
+PO00046,V0013,Nu Paper Mills,Office Supplies,Conveyor Belt,43,106,442317.86,12.63,10,4.25,9.4,36.28,🟡 MEDIUM — Monitor Closely,,0
+PO00047,V0014,Xi Furniture Works,IT Services,Aluminium Sheet,38,153,578294.1,18.46,10,6.13,9.27,43.86,🟡 MEDIUM — Monitor Closely,-2.0,0
+PO00048,V0013,Nu Paper Mills,Office Supplies,Server Rack,15,15,29622.6,12.63,5,0.6,9.4,27.63,🟢 LOW — Likely On Time,,0
+PO00049,V0003,Gamma Solutions Ltd,Office Supplies,Packaging Box,36,289,962904.65,10.67,10,11.58,9.4,41.65,🟡 MEDIUM — Monitor Closely,18.0,1
+PO00050,V0011,Lambda Logistics,Electronics,Safety Gloves,24,168,184416.96,15.65,10,6.73,12.74,45.12,🟡 MEDIUM — Monitor Closely,,0
+PO00051,V0002,BetaCore Industries,Raw Materials,Network Switch,11,10,37576.7,16.0,5,0.4,12.35,33.75,🟢 LOW — Likely On Time,20.0,1
+PO00052,V0005,Epsilon Electronics,Logistics,Chemical Solvent,37,430,64878.4,13.33,10,17.23,6.35,46.91,🟡 MEDIUM — Monitor Closely,2.0,1
+PO00053,V0006,Zeta Raw Materials,Manufacturing,Fire Extinguisher,17,132,507691.8,10.0,5,5.29,8.13,28.42,🟢 LOW — Likely On Time,-3.0,0
+PO00054,V0013,Nu Paper Mills,Office Supplies,Industrial Fan,11,476,758834.44,12.63,5,19.08,9.4,46.11,🟡 MEDIUM — Monitor Closely,,0
+PO00055,V0020,Upsilon AutoParts,Consulting,Printer,29,396,610960.68,15.0,10,15.87,10.53,51.4,🟡 MEDIUM — Monitor Closely,,0
+PO00056,V0011,Lambda Logistics,Electronics,Laptop,38,36,91962.36,15.65,10,1.44,12.74,39.83,🟡 MEDIUM — Monitor Closely,16.0,1
+PO00057,V0005,Epsilon Electronics,Logistics,Packaging Box,40,457,1897509.7,13.33,10,18.32,6.35,48.0,🟡 MEDIUM — Monitor Closely,14.0,1
+PO00058,V0009,Iota Steel Works,Hardware,Safety Gloves,12,423,1551809.34,18.67,5,16.95,7.57,48.19,🟡 MEDIUM — Monitor Closely,4.0,1
+PO00059,V0013,Nu Paper Mills,Office Supplies,Safety Gloves,38,292,896772.88,12.63,10,11.7,9.4,43.73,🟡 MEDIUM — Monitor Closely,7.0,1
+PO00060,V0011,Lambda Logistics,Electronics,Plastic Mold,42,182,727867.14,15.65,10,7.29,12.74,45.68,🟡 MEDIUM — Monitor Closely,-3.0,0
+PO00061,V0018,Sigma Plastics Co,Packaging,Chemical Solvent,38,369,760811.58,15.24,10,14.79,15.0,55.03,🔴 HIGH — Likely Delayed,,0
+PO00062,V0008,Theta Packaging Co,Packaging,Electric Motor,37,114,233904.06,17.5,10,4.57,15.0,47.07,🟡 MEDIUM — Monitor Closely,,0
+PO00063,V0015,Omicron IT Services,Logistics,Plastic Mold,23,170,304548.2,15.0,10,6.81,6.35,38.16,🟡 MEDIUM — Monitor Closely,5.0,1
+PO00064,V0018,Sigma Plastics Co,Packaging,Server Rack,20,162,103971.6,15.24,5,6.49,15.0,41.73,🟡 MEDIUM — Monitor Closely,,0
+PO00065,V0010,Kappa Office Supplies,Consulting,Printer,25,390,1032310.5,28.57,10,15.63,10.53,64.73,🔴 HIGH — Likely Delayed,6.0,1
+PO00066,V0005,Epsilon Electronics,Logistics,Plastic Mold,10,8,28437.52,13.33,5,0.32,6.35,25.0,🟢 LOW — Likely On Time,,0
+PO00067,V0016,Pi Hardware Ltd,Manufacturing,Printer,43,327,1422083.76,10.67,10,13.11,8.13,41.91,🟡 MEDIUM — Monitor Closely,19.0,1
+PO00068,V0002,BetaCore Industries,Raw Materials,Plastic Mold,14,175,168455.0,16.0,5,7.01,12.35,40.36,🟡 MEDIUM — Monitor Closely,-5.0,0
+PO00069,V0002,BetaCore Industries,Raw Materials,Ethernet Cable,43,296,937064.96,16.0,10,11.86,12.35,50.21,🟡 MEDIUM — Monitor Closely,20.0,1
+PO00070,V0020,Upsilon AutoParts,Consulting,Fire Extinguisher,40,286,1096524.0,15.0,10,11.46,10.53,46.99,🟡 MEDIUM — Monitor Closely,,0
+PO00071,V0014,Xi Furniture Works,IT Services,Electric Motor,13,441,1306771.2,18.46,5,17.68,9.27,50.41,🟡 MEDIUM — Monitor Closely,19.0,1
+PO00072,V0006,Zeta Raw Materials,Manufacturing,Aluminium Sheet,17,42,34752.06,10.0,5,1.68,8.13,24.81,🟢 LOW — Likely On Time,-3.0,0
+PO00073,V0002,BetaCore Industries,Raw Materials,Chemical Solvent,25,305,724701.35,16.0,10,12.22,12.35,50.57,🟡 MEDIUM — Monitor Closely,,0
+PO00074,V0019,Tau Energy Systems,Hardware,A4 Paper Ream,14,474,644426.7,9.41,5,19.0,7.57,40.98,🟡 MEDIUM — Monitor Closely,,0
+PO00075,V0005,Epsilon Electronics,Logistics,Steel Rod,17,466,636034.08,13.33,5,18.68,6.35,43.36,🟡 MEDIUM — Monitor Closely,-1.0,0
+PO00076,V0013,Nu Paper Mills,Office Supplies,Plastic Mold,35,240,830150.4,12.63,10,9.62,9.4,41.65,🟡 MEDIUM — Monitor Closely,11.0,1
+PO00077,V0003,Gamma Solutions Ltd,Office Supplies,Chemical Solvent,24,310,399689.2,10.67,10,12.42,9.4,42.49,🟡 MEDIUM — Monitor Closely,,0
+PO00078,V0009,Iota Steel Works,Hardware,Server Rack,38,266,871142.02,18.67,10,10.66,7.57,46.9,🟡 MEDIUM — Monitor Closely,5.0,1
+PO00079,V0004,Delta Manufacturing,IT Services,Server Rack,33,171,280310.04,17.78,10,6.85,9.27,43.9,🟡 MEDIUM — Monitor Closely,,0
+PO00080,V0002,BetaCore Industries,Raw Materials,Consulting Hours,27,417,1590633.99,16.0,10,16.71,12.35,55.06,🔴 HIGH — Likely Delayed,4.0,1
+PO00081,V0001,Alpha Tech Supplies,Electronics,Aluminium Sheet,33,443,1150581.75,12.0,10,17.76,12.74,52.5,🟡 MEDIUM — Monitor Closely,-4.0,0
+PO00082,V0015,Omicron IT Services,Logistics,Office Chair,24,319,1210410.41,15.0,10,12.79,6.35,44.14,🟡 MEDIUM — Monitor Closely,,0
+PO00083,V0004,Delta Manufacturing,IT Services,Laptop,17,451,1581359.34,17.78,5,18.08,9.27,50.13,🟡 MEDIUM — Monitor Closely,9.0,1
+PO00084,V0004,Delta Manufacturing,IT Services,Consulting Hours,16,48,55788.96,17.78,5,1.92,9.27,33.97,🟢 LOW — Likely On Time,,0
+PO00085,V0016,Pi Hardware Ltd,Manufacturing,Software License,36,140,294935.2,10.67,10,5.61,8.13,34.41,🟢 LOW — Likely On Time,,0
+PO00086,V0005,Epsilon Electronics,Logistics,Steel Rod,33,472,1423986.24,13.33,10,18.92,6.35,48.6,🟡 MEDIUM — Monitor Closely,16.0,1
+PO00087,V0019,Tau Energy Systems,Hardware,Conveyor Belt,16,372,568360.2,9.41,5,14.91,7.57,36.89,🟡 MEDIUM — Monitor Closely,,0
+PO00088,V0013,Nu Paper Mills,Office Supplies,Consulting Hours,19,283,1082820.26,12.63,5,11.34,9.4,38.37,🟡 MEDIUM — Monitor Closely,-2.0,0
+PO00089,V0016,Pi Hardware Ltd,Manufacturing,Industrial Fan,16,23,37374.31,10.67,5,0.92,8.13,24.72,🟢 LOW — Likely On Time,,0
+PO00090,V0004,Delta Manufacturing,IT Services,Consulting Hours,40,495,1470838.05,17.78,10,19.84,9.27,56.89,🔴 HIGH — Likely Delayed,,0
+PO00091,V0005,Epsilon Electronics,Logistics,Steel Rod,23,210,915835.2,13.33,10,8.42,6.35,38.1,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00092,V0018,Sigma Plastics Co,Packaging,Industrial Fan,38,437,732586.8,15.24,10,17.52,15.0,57.76,🔴 HIGH — Likely Delayed,,0
+PO00093,V0010,Kappa Office Supplies,Consulting,Chemical Solvent,34,121,384084.25,28.57,10,4.85,10.53,53.95,🟡 MEDIUM — Monitor Closely,11.0,1
+PO00094,V0001,Alpha Tech Supplies,Electronics,Office Chair,10,356,545520.16,12.0,5,14.27,12.74,44.01,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00095,V0014,Xi Furniture Works,IT Services,Conveyor Belt,17,75,94408.5,18.46,5,3.01,9.27,35.74,🟡 MEDIUM — Monitor Closely,18.0,1
+PO00096,V0016,Pi Hardware Ltd,Manufacturing,Conveyor Belt,21,318,1091223.36,10.67,5,12.75,8.13,36.55,🟡 MEDIUM — Monitor Closely,,0
+PO00097,V0015,Omicron IT Services,Logistics,Electric Motor,11,342,33009.84,15.0,5,13.71,6.35,40.06,🟡 MEDIUM — Monitor Closely,,0
+PO00098,V0009,Iota Steel Works,Hardware,Consulting Hours,19,328,1578349.12,18.67,5,13.15,7.57,44.39,🟡 MEDIUM — Monitor Closely,,0
+PO00099,V0019,Tau Energy Systems,Hardware,Electric Motor,8,196,564679.92,9.41,5,7.86,7.57,29.84,🟢 LOW — Likely On Time,,0
+PO00100,V0002,BetaCore Industries,Raw Materials,Fire Extinguisher,25,443,1526006.53,16.0,10,17.76,12.35,56.11,🔴 HIGH — Likely Delayed,20.0,1
+PO00101,V0005,Epsilon Electronics,Logistics,Printer,26,98,306094.18,13.33,10,3.93,6.35,33.61,🟢 LOW — Likely On Time,,0
+PO00102,V0010,Kappa Office Supplies,Consulting,Safety Gloves,18,375,262683.75,28.57,5,15.03,10.53,59.13,🔴 HIGH — Likely Delayed,3.0,1
+PO00103,V0009,Iota Steel Works,Hardware,Server Rack,37,272,689215.36,18.67,10,10.9,7.57,47.14,🟡 MEDIUM — Monitor Closely,10.0,1
+PO00104,V0008,Theta Packaging Co,Packaging,Industrial Fan,12,494,208828.62,17.5,5,19.8,15.0,57.3,🔴 HIGH — Likely Delayed,,0
+PO00105,V0009,Iota Steel Works,Hardware,Conveyor Belt,30,64,147276.16,18.67,10,2.57,7.57,38.81,🟡 MEDIUM — Monitor Closely,10.0,1
+PO00106,V0018,Sigma Plastics Co,Packaging,Safety Gloves,11,318,1407773.28,15.24,5,12.75,15.0,47.99,🟡 MEDIUM — Monitor Closely,,0
+PO00107,V0002,BetaCore Industries,Raw Materials,Electric Motor,14,60,44514.0,16.0,5,2.4,12.35,35.75,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00108,V0018,Sigma Plastics Co,Packaging,Packaging Box,33,199,456812.46,15.24,10,7.98,15.0,48.22,🟡 MEDIUM — Monitor Closely,16.0,1
+PO00109,V0002,BetaCore Industries,Raw Materials,Network Switch,35,481,2289574.43,16.0,10,19.28,12.35,57.63,🔴 HIGH — Likely Delayed,,0
+PO00110,V0012,Mu Chemical Corp,Raw Materials,Office Chair,24,352,657645.12,12.0,10,14.11,12.35,48.46,🟡 MEDIUM — Monitor Closely,-5.0,0
+PO00111,V0020,Upsilon AutoParts,Consulting,Laptop,28,340,373972.8,15.0,10,13.63,10.53,49.16,🟡 MEDIUM — Monitor Closely,-4.0,0
+PO00112,V0018,Sigma Plastics Co,Packaging,A4 Paper Ream,21,36,149673.6,15.24,5,1.44,15.0,36.68,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00113,V0005,Epsilon Electronics,Logistics,Ethernet Cable,18,142,610473.62,13.33,5,5.69,6.35,30.37,🟢 LOW — Likely On Time,20.0,1
+PO00114,V0008,Theta Packaging Co,Packaging,Conveyor Belt,8,184,728717.28,17.5,5,7.37,15.0,44.87,🟡 MEDIUM — Monitor Closely,2.0,1
+PO00115,V0004,Delta Manufacturing,IT Services,Steel Rod,35,380,810825.0,17.78,10,15.23,9.27,52.28,🟡 MEDIUM — Monitor Closely,3.0,1
+PO00116,V0002,BetaCore Industries,Raw Materials,Diesel Generator,36,114,539198.34,16.0,10,4.57,12.35,42.92,🟡 MEDIUM — Monitor Closely,-2.0,0
+PO00117,V0016,Pi Hardware Ltd,Manufacturing,Consulting Hours,12,219,754713.42,10.67,5,8.78,8.13,32.58,🟢 LOW — Likely On Time,2.0,1
+PO00118,V0019,Tau Energy Systems,Hardware,Aluminium Sheet,31,141,442792.17,9.41,10,5.65,7.57,32.63,🟢 LOW — Likely On Time,,0
+PO00119,V0004,Delta Manufacturing,IT Services,Aluminium Sheet,34,310,675641.9,17.78,10,12.42,9.27,49.47,🟡 MEDIUM — Monitor Closely,,0
+PO00120,V0014,Xi Furniture Works,IT Services,Printer,34,424,973003.68,18.46,10,16.99,9.27,54.72,🟡 MEDIUM — Monitor Closely,-3.0,0
+PO00121,V0003,Gamma Solutions Ltd,Office Supplies,Steel Rod,12,352,1625810.56,10.67,5,14.11,9.4,39.18,🟡 MEDIUM — Monitor Closely,,0
+PO00122,V0002,BetaCore Industries,Raw Materials,Conveyor Belt,14,416,288733.12,16.0,5,16.67,12.35,50.02,🟡 MEDIUM — Monitor Closely,,0
+PO00123,V0002,BetaCore Industries,Raw Materials,Electric Motor,29,445,2039626.35,16.0,10,17.84,12.35,56.19,🔴 HIGH — Likely Delayed,5.0,1
+PO00124,V0004,Delta Manufacturing,IT Services,Network Switch,14,247,286522.47,17.78,5,9.9,9.27,41.95,🟡 MEDIUM — Monitor Closely,6.0,1
+PO00125,V0020,Upsilon AutoParts,Consulting,Fire Extinguisher,45,499,1920546.21,15.0,10,20.0,10.53,55.53,🔴 HIGH — Likely Delayed,18.0,1
+PO00126,V0011,Lambda Logistics,Electronics,Network Switch,18,360,1376614.8,15.65,5,14.43,12.74,47.82,🟡 MEDIUM — Monitor Closely,13.0,1
+PO00127,V0001,Alpha Tech Supplies,Electronics,Steel Rod,31,380,1209996.0,12.0,10,15.23,12.74,49.97,🟡 MEDIUM — Monitor Closely,,0
+PO00128,V0011,Lambda Logistics,Electronics,Conveyor Belt,10,190,302594.0,15.65,5,7.62,12.74,41.01,🟡 MEDIUM — Monitor Closely,19.0,1
+PO00129,V0015,Omicron IT Services,Logistics,Packaging Box,45,346,157025.18,15.0,10,13.87,6.35,45.22,🟡 MEDIUM — Monitor Closely,,0
+PO00130,V0012,Mu Chemical Corp,Raw Materials,Packaging Box,25,387,1000824.57,12.0,10,15.51,12.35,49.86,🟡 MEDIUM — Monitor Closely,,0
+PO00131,V0013,Nu Paper Mills,Office Supplies,Fire Extinguisher,7,158,43421.56,12.63,5,6.33,9.4,33.36,🟢 LOW — Likely On Time,8.0,1
+PO00132,V0011,Lambda Logistics,Electronics,Printer,38,392,515409.44,15.65,10,15.71,12.74,54.1,🟡 MEDIUM — Monitor Closely,,0
+PO00133,V0017,Rho Consulting Group,Chemicals,Aluminium Sheet,11,273,964555.41,13.33,5,10.94,7.78,37.05,🟡 MEDIUM — Monitor Closely,,0
+PO00134,V0011,Lambda Logistics,Electronics,Conveyor Belt,43,236,1087901.0,15.65,10,9.46,12.74,47.85,🟡 MEDIUM — Monitor Closely,,0
+PO00135,V0011,Lambda Logistics,Electronics,Server Rack,30,208,31873.92,15.65,10,8.34,12.74,46.73,🟡 MEDIUM — Monitor Closely,15.0,1
+PO00136,V0017,Rho Consulting Group,Chemicals,Steel Rod,26,224,664139.84,13.33,10,8.98,7.78,40.09,🟡 MEDIUM — Monitor Closely,-5.0,0
+PO00137,V0004,Delta Manufacturing,IT Services,Diesel Generator,29,40,103075.6,17.78,10,1.6,9.27,38.65,🟡 MEDIUM — Monitor Closely,-2.0,0
+PO00138,V0006,Zeta Raw Materials,Manufacturing,Fire Extinguisher,11,75,98778.0,10.0,5,3.01,8.13,26.14,🟢 LOW — Likely On Time,10.0,1
+PO00139,V0019,Tau Energy Systems,Hardware,Fire Extinguisher,27,390,1138164.3,9.41,10,15.63,7.57,42.61,🟡 MEDIUM — Monitor Closely,-3.0,0
+PO00140,V0009,Iota Steel Works,Hardware,Conveyor Belt,29,227,720806.72,18.67,10,9.1,7.57,45.34,🟡 MEDIUM — Monitor Closely,,0
+PO00141,V0012,Mu Chemical Corp,Raw Materials,Electric Motor,12,232,54789.12,12.0,5,9.3,12.35,38.65,🟡 MEDIUM — Monitor Closely,,0
+PO00142,V0002,BetaCore Industries,Raw Materials,Consulting Hours,27,284,1355659.8,16.0,10,11.38,12.35,49.73,🟡 MEDIUM — Monitor Closely,,0
+PO00143,V0004,Delta Manufacturing,IT Services,Safety Gloves,39,491,174928.57,17.78,10,19.68,9.27,56.73,🔴 HIGH — Likely Delayed,8.0,1
+PO00144,V0017,Rho Consulting Group,Chemicals,Diesel Generator,30,225,1114960.5,13.33,10,9.02,7.78,40.13,🟡 MEDIUM — Monitor Closely,-24.0,0
+PO00145,V0020,Upsilon AutoParts,Consulting,Office Chair,11,397,684793.24,15.0,5,15.91,10.53,46.44,🟡 MEDIUM — Monitor Closely,-1.0,0
+PO00146,V0020,Upsilon AutoParts,Consulting,Ethernet Cable,12,198,288392.94,15.0,5,7.94,10.53,38.47,🟡 MEDIUM — Monitor Closely,,0
+PO00147,V0013,Nu Paper Mills,Office Supplies,Ethernet Cable,26,496,1635545.12,12.63,10,19.88,9.4,51.91,🟡 MEDIUM — Monitor Closely,,0
+PO00148,V0017,Rho Consulting Group,Chemicals,Steel Rod,39,417,284635.86,13.33,10,16.71,7.78,47.82,🟡 MEDIUM — Monitor Closely,13.0,1
+PO00149,V0011,Lambda Logistics,Electronics,Software License,21,93,442520.97,15.65,5,3.73,12.74,37.12,🟡 MEDIUM — Monitor Closely,2.0,1
+PO00150,V0017,Rho Consulting Group,Chemicals,Aluminium Sheet,28,433,1710865.27,13.33,10,17.35,7.78,48.46,🟡 MEDIUM — Monitor Closely,,0
+PO00151,V0020,Upsilon AutoParts,Consulting,Server Rack,9,79,67396.48,15.0,5,3.17,10.53,33.7,🟢 LOW — Likely On Time,,0
+PO00152,V0010,Kappa Office Supplies,Consulting,Consulting Hours,41,497,1117643.66,28.57,10,19.92,10.53,69.02,🔴 HIGH — Likely Delayed,17.0,1
+PO00153,V0019,Tau Energy Systems,Hardware,Consulting Hours,25,189,644040.18,9.41,10,7.58,7.57,34.56,🟢 LOW — Likely On Time,,0
+PO00154,V0009,Iota Steel Works,Hardware,Office Chair,30,411,1250705.88,18.67,10,16.47,7.57,52.71,🟡 MEDIUM — Monitor Closely,,0
+PO00155,V0003,Gamma Solutions Ltd,Office Supplies,Server Rack,35,436,290877.4,10.67,10,17.47,9.4,47.54,🟡 MEDIUM — Monitor Closely,,0
+PO00156,V0015,Omicron IT Services,Logistics,Network Switch,33,485,2210145.0,15.0,10,19.44,6.35,50.79,🟡 MEDIUM — Monitor Closely,9.0,1
+PO00157,V0003,Gamma Solutions Ltd,Office Supplies,Network Switch,8,121,237343.92,10.67,5,4.85,9.4,29.92,🟢 LOW — Likely On Time,-1.0,0
+PO00158,V0005,Epsilon Electronics,Logistics,Office Chair,37,172,682380.76,13.33,10,6.89,6.35,36.57,🟡 MEDIUM — Monitor Closely,-1.0,0
+PO00159,V0001,Alpha Tech Supplies,Electronics,Plastic Mold,16,3,13601.97,12.0,5,0.12,12.74,29.86,🟢 LOW — Likely On Time,,0
+PO00160,V0002,BetaCore Industries,Raw Materials,Chemical Solvent,36,122,187965.4,16.0,10,4.89,12.35,43.24,🟡 MEDIUM — Monitor Closely,5.0,1
+PO00161,V0017,Rho Consulting Group,Chemicals,Conveyor Belt,16,275,36121.25,13.33,5,11.02,7.78,37.13,🟡 MEDIUM — Monitor Closely,19.0,1
+PO00162,V0014,Xi Furniture Works,IT Services,Server Rack,40,181,224582.99,18.46,10,7.25,9.27,44.98,🟡 MEDIUM — Monitor Closely,3.0,1
+PO00163,V0017,Rho Consulting Group,Chemicals,Aluminium Sheet,31,260,1025112.4,13.33,10,10.42,7.78,41.53,🟡 MEDIUM — Monitor Closely,,0
+PO00164,V0001,Alpha Tech Supplies,Electronics,Network Switch,29,192,250669.44,12.0,10,7.7,12.74,42.44,🟡 MEDIUM — Monitor Closely,20.0,1
+PO00165,V0018,Sigma Plastics Co,Packaging,Safety Gloves,36,69,18592.74,15.24,10,2.77,15.0,43.01,🟡 MEDIUM — Monitor Closely,,0
+PO00166,V0015,Omicron IT Services,Logistics,Office Chair,19,367,1428415.38,15.0,5,14.71,6.35,41.06,🟡 MEDIUM — Monitor Closely,-4.0,0
+PO00167,V0013,Nu Paper Mills,Office Supplies,Aluminium Sheet,23,478,757572.64,12.63,10,19.16,9.4,51.19,🟡 MEDIUM — Monitor Closely,-3.0,0
+PO00168,V0011,Lambda Logistics,Electronics,Plastic Mold,30,442,1730505.14,15.65,10,17.72,12.74,56.11,🔴 HIGH — Likely Delayed,,0
+PO00169,V0011,Lambda Logistics,Electronics,Server Rack,38,459,2196117.63,15.65,10,18.4,12.74,56.79,🔴 HIGH — Likely Delayed,11.0,1
+PO00170,V0006,Zeta Raw Materials,Manufacturing,Aluminium Sheet,27,41,89441.91,10.0,10,1.64,8.13,29.77,🟢 LOW — Likely On Time,0.0,0
+PO00171,V0020,Upsilon AutoParts,Consulting,Packaging Box,35,152,238206.8,15.0,10,6.09,10.53,41.62,🟡 MEDIUM — Monitor Closely,12.0,1
+PO00172,V0009,Iota Steel Works,Hardware,Office Chair,32,315,1572117.75,18.67,10,12.63,7.57,48.87,🟡 MEDIUM — Monitor Closely,9.0,1
+PO00173,V0015,Omicron IT Services,Logistics,Office Chair,11,435,1330008.15,15.0,5,17.43,6.35,43.78,🟡 MEDIUM — Monitor Closely,-5.0,0
+PO00174,V0020,Upsilon AutoParts,Consulting,Ethernet Cable,30,487,1391777.82,15.0,10,19.52,10.53,55.05,🔴 HIGH — Likely Delayed,1.0,1
+PO00175,V0013,Nu Paper Mills,Office Supplies,Safety Gloves,22,71,189628.93,12.63,10,2.85,9.4,34.88,🟢 LOW — Likely On Time,13.0,1
+PO00176,V0018,Sigma Plastics Co,Packaging,Printer,23,256,668887.04,15.24,10,10.26,15.0,50.5,🟡 MEDIUM — Monitor Closely,,0
+PO00177,V0016,Pi Hardware Ltd,Manufacturing,A4 Paper Ream,15,356,1632818.92,10.67,5,14.27,8.13,38.07,🟡 MEDIUM — Monitor Closely,-3.0,0
+PO00178,V0011,Lambda Logistics,Electronics,Network Switch,42,228,1136910.6,15.65,10,9.14,12.74,47.53,🟡 MEDIUM — Monitor Closely,,0
+PO00179,V0006,Zeta Raw Materials,Manufacturing,Network Switch,14,365,1300254.1,10.0,5,14.63,8.13,37.76,🟡 MEDIUM — Monitor Closely,20.0,1
+PO00180,V0019,Tau Energy Systems,Hardware,Network Switch,42,14,25710.16,9.41,10,0.56,7.57,27.54,🟢 LOW — Likely On Time,-4.0,0
+PO00181,V0016,Pi Hardware Ltd,Manufacturing,Diesel Generator,33,204,1019592.0,10.67,10,8.18,8.13,36.98,🟡 MEDIUM — Monitor Closely,,0
+PO00182,V0015,Omicron IT Services,Logistics,Diesel Generator,15,329,137232.48,15.0,5,13.19,6.35,39.54,🟡 MEDIUM — Monitor Closely,,0
+PO00183,V0002,BetaCore Industries,Raw Materials,Printer,26,258,1175971.74,16.0,10,10.34,12.35,48.69,🟡 MEDIUM — Monitor Closely,13.0,1
+PO00184,V0017,Rho Consulting Group,Chemicals,Electric Motor,23,116,204485.96,13.33,10,4.65,7.78,35.76,🟡 MEDIUM — Monitor Closely,-19.0,0
+PO00185,V0003,Gamma Solutions Ltd,Office Supplies,Diesel Generator,44,156,482261.52,10.67,10,6.25,9.4,36.32,🟡 MEDIUM — Monitor Closely,,0
+PO00186,V0020,Upsilon AutoParts,Consulting,Safety Gloves,8,320,1157481.6,15.0,5,12.83,10.53,43.36,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00187,V0019,Tau Energy Systems,Hardware,Packaging Box,38,136,445140.24,9.41,10,5.45,7.57,32.43,🟢 LOW — Likely On Time,,0
+PO00188,V0013,Nu Paper Mills,Office Supplies,Electric Motor,11,248,313013.2,12.63,5,9.94,9.4,36.97,🟡 MEDIUM — Monitor Closely,3.0,1
+PO00189,V0011,Lambda Logistics,Electronics,Fire Extinguisher,27,248,582549.52,15.65,10,9.94,12.74,48.33,🟡 MEDIUM — Monitor Closely,14.0,1
+PO00190,V0018,Sigma Plastics Co,Packaging,Printer,22,390,734826.3,15.24,10,15.63,15.0,55.87,🔴 HIGH — Likely Delayed,,0
+PO00191,V0002,BetaCore Industries,Raw Materials,Electric Motor,33,127,94912.18,16.0,10,5.09,12.35,43.44,🟡 MEDIUM — Monitor Closely,10.0,1
+PO00192,V0006,Zeta Raw Materials,Manufacturing,Software License,38,370,591237.8,10.0,10,14.83,8.13,42.96,🟡 MEDIUM — Monitor Closely,-4.0,0
+PO00193,V0015,Omicron IT Services,Logistics,Chemical Solvent,44,484,966330.2,15.0,10,19.4,6.35,50.75,🟡 MEDIUM — Monitor Closely,8.0,1
+PO00194,V0016,Pi Hardware Ltd,Manufacturing,Electric Motor,13,254,763960.88,10.67,5,10.18,8.13,33.98,🟢 LOW — Likely On Time,,0
+PO00195,V0002,BetaCore Industries,Raw Materials,Industrial Fan,43,392,802075.12,16.0,10,15.71,12.35,54.06,🟡 MEDIUM — Monitor Closely,,0
+PO00196,V0017,Rho Consulting Group,Chemicals,Consulting Hours,14,148,61269.04,13.33,5,5.93,7.78,32.04,🟢 LOW — Likely On Time,15.0,1
+PO00197,V0018,Sigma Plastics Co,Packaging,Network Switch,19,407,2008382.2,15.24,5,16.31,15.0,51.55,🟡 MEDIUM — Monitor Closely,,0
+PO00198,V0011,Lambda Logistics,Electronics,Software License,16,24,5822.88,15.65,5,0.96,12.74,34.35,🟢 LOW — Likely On Time,,0
+PO00199,V0020,Upsilon AutoParts,Consulting,Electric Motor,39,164,140119.96,15.0,10,6.57,10.53,42.1,🟡 MEDIUM — Monitor Closely,,0
+PO00200,V0001,Alpha Tech Supplies,Electronics,Network Switch,14,154,369710.88,12.0,5,6.17,12.74,35.91,🟡 MEDIUM — Monitor Closely,,0
+PO00201,V0016,Pi Hardware Ltd,Manufacturing,Plastic Mold,10,323,58753.7,10.67,5,12.95,8.13,36.75,🟡 MEDIUM — Monitor Closely,,0
+PO00202,V0013,Nu Paper Mills,Office Supplies,Ethernet Cable,9,323,1169214.78,12.63,5,12.95,9.4,39.98,🟡 MEDIUM — Monitor Closely,,0
+PO00203,V0005,Epsilon Electronics,Logistics,Packaging Box,33,226,362228.28,13.33,10,9.06,6.35,38.74,🟡 MEDIUM — Monitor Closely,,0
+PO00204,V0007,Eta Global Traders,Chemicals,Aluminium Sheet,37,362,265530.62,20.0,10,14.51,7.78,52.29,🟡 MEDIUM — Monitor Closely,,0
+PO00205,V0011,Lambda Logistics,Electronics,Aluminium Sheet,23,236,1077342.36,15.65,10,9.46,12.74,47.85,🟡 MEDIUM — Monitor Closely,,0
+PO00206,V0008,Theta Packaging Co,Packaging,Electric Motor,20,143,402191.79,17.5,5,5.73,15.0,43.23,🟡 MEDIUM — Monitor Closely,,0
+PO00207,V0009,Iota Steel Works,Hardware,Electric Motor,43,287,1340812.34,18.67,10,11.5,7.57,47.74,🟡 MEDIUM — Monitor Closely,,0
+PO00208,V0005,Epsilon Electronics,Logistics,Electric Motor,25,489,1895691.63,13.33,10,19.6,6.35,49.28,🟡 MEDIUM — Monitor Closely,7.0,1
+PO00209,V0007,Eta Global Traders,Chemicals,A4 Paper Ream,42,132,494911.56,20.0,10,5.29,7.78,43.07,🟡 MEDIUM — Monitor Closely,12.0,1
+PO00210,V0008,Theta Packaging Co,Packaging,Office Chair,21,380,1122827.8,17.5,5,15.23,15.0,52.73,🟡 MEDIUM — Monitor Closely,11.0,1
+PO00211,V0005,Epsilon Electronics,Logistics,Laptop,33,368,878931.2,13.33,10,14.75,6.35,44.43,🟡 MEDIUM — Monitor Closely,,0
+PO00212,V0011,Lambda Logistics,Electronics,Electric Motor,12,388,1870691.56,15.65,5,15.55,12.74,48.94,🟡 MEDIUM — Monitor Closely,,0
+PO00213,V0014,Xi Furniture Works,IT Services,Server Rack,32,468,2158079.04,18.46,10,18.76,9.27,56.49,🔴 HIGH — Likely Delayed,,0
+PO00214,V0010,Kappa Office Supplies,Consulting,Conveyor Belt,28,449,105721.54,28.57,10,18.0,10.53,67.1,🔴 HIGH — Likely Delayed,-5.0,0
+PO00215,V0005,Epsilon Electronics,Logistics,Diesel Generator,24,269,671120.03,13.33,10,10.78,6.35,40.46,🟡 MEDIUM — Monitor Closely,20.0,1
+PO00216,V0009,Iota Steel Works,Hardware,Server Rack,28,375,870611.25,18.67,10,15.03,7.57,51.27,🟡 MEDIUM — Monitor Closely,11.0,1
+PO00217,V0013,Nu Paper Mills,Office Supplies,Packaging Box,12,439,1409931.91,12.63,5,17.6,9.4,44.63,🟡 MEDIUM — Monitor Closely,,0
+PO00218,V0008,Theta Packaging Co,Packaging,Laptop,31,245,404698.35,17.5,10,9.82,15.0,52.32,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00219,V0019,Tau Energy Systems,Hardware,Laptop,30,155,454642.9,9.41,10,6.21,7.57,33.19,🟢 LOW — Likely On Time,3.0,1
+PO00220,V0013,Nu Paper Mills,Office Supplies,Diesel Generator,14,239,374916.91,12.63,5,9.58,9.4,36.61,🟡 MEDIUM — Monitor Closely,19.0,1
+PO00221,V0016,Pi Hardware Ltd,Manufacturing,Ethernet Cable,45,113,541149.09,10.67,10,4.53,8.13,33.33,🟢 LOW — Likely On Time,20.0,1
+PO00222,V0018,Sigma Plastics Co,Packaging,A4 Paper Ream,45,468,1114120.8,15.24,10,18.76,15.0,59.0,🔴 HIGH — Likely Delayed,2.0,1
+PO00223,V0019,Tau Energy Systems,Hardware,Printer,42,186,81209.46,9.41,10,7.45,7.57,34.43,🟢 LOW — Likely On Time,,0
+PO00224,V0017,Rho Consulting Group,Chemicals,Consulting Hours,20,77,66563.42,13.33,5,3.09,7.78,29.2,🟢 LOW — Likely On Time,,0
+PO00225,V0015,Omicron IT Services,Logistics,Ethernet Cable,36,229,928143.87,15.0,10,9.18,6.35,40.53,🟡 MEDIUM — Monitor Closely,,0
+PO00226,V0001,Alpha Tech Supplies,Electronics,Industrial Fan,7,345,1395259.35,12.0,5,13.83,12.74,43.57,🟡 MEDIUM — Monitor Closely,13.0,1
+PO00227,V0018,Sigma Plastics Co,Packaging,Office Chair,37,177,622493.07,15.24,10,7.09,15.0,47.33,🟡 MEDIUM — Monitor Closely,13.0,1
+PO00228,V0014,Xi Furniture Works,IT Services,Network Switch,35,394,283825.78,18.46,10,15.79,9.27,53.52,🟡 MEDIUM — Monitor Closely,,0
+PO00229,V0018,Sigma Plastics Co,Packaging,Ethernet Cable,14,494,1642979.78,15.24,5,19.8,15.0,55.04,🔴 HIGH — Likely Delayed,17.0,1
+PO00230,V0001,Alpha Tech Supplies,Electronics,Laptop,36,373,1825719.37,12.0,10,14.95,12.74,49.69,🟡 MEDIUM — Monitor Closely,,0
+PO00231,V0015,Omicron IT Services,Logistics,Network Switch,24,422,500846.48,15.0,10,16.91,6.35,48.26,🟡 MEDIUM — Monitor Closely,4.0,1
+PO00232,V0001,Alpha Tech Supplies,Electronics,Chemical Solvent,11,215,665182.05,12.0,5,8.62,12.74,38.36,🟡 MEDIUM — Monitor Closely,-4.0,0
+PO00233,V0002,BetaCore Industries,Raw Materials,Chemical Solvent,32,345,1218288.15,16.0,10,13.83,12.35,52.18,🟡 MEDIUM — Monitor Closely,,0
+PO00234,V0002,BetaCore Industries,Raw Materials,Ethernet Cable,21,387,1673953.02,16.0,5,15.51,12.35,48.86,🟡 MEDIUM — Monitor Closely,,0
+PO00235,V0011,Lambda Logistics,Electronics,Chemical Solvent,16,396,1338095.88,15.65,5,15.87,12.74,49.26,🟡 MEDIUM — Monitor Closely,,0
+PO00236,V0019,Tau Energy Systems,Hardware,Server Rack,42,141,49595.34,9.41,10,5.65,7.57,32.63,🟢 LOW — Likely On Time,,0
+PO00237,V0017,Rho Consulting Group,Chemicals,Safety Gloves,33,344,666231.68,13.33,10,13.79,7.78,44.9,🟡 MEDIUM — Monitor Closely,11.0,1
+PO00238,V0008,Theta Packaging Co,Packaging,Chemical Solvent,16,387,1049830.38,17.5,5,15.51,15.0,53.01,🟡 MEDIUM — Monitor Closely,,0
+PO00239,V0017,Rho Consulting Group,Chemicals,Ethernet Cable,22,496,1047408.16,13.33,10,19.88,7.78,50.99,🟡 MEDIUM — Monitor Closely,1.0,1
+PO00240,V0012,Mu Chemical Corp,Raw Materials,Steel Rod,10,41,189215.82,12.0,5,1.64,12.35,30.99,🟢 LOW — Likely On Time,20.0,1
+PO00241,V0003,Gamma Solutions Ltd,Office Supplies,A4 Paper Ream,37,309,75939.84,10.67,10,12.38,9.4,42.45,🟡 MEDIUM — Monitor Closely,-5.0,0
+PO00242,V0004,Delta Manufacturing,IT Services,Software License,45,109,511094.46,17.78,10,4.37,9.27,41.42,🟡 MEDIUM — Monitor Closely,19.0,1
+PO00243,V0013,Nu Paper Mills,Office Supplies,Consulting Hours,26,165,641650.35,12.63,10,6.61,9.4,38.64,🟡 MEDIUM — Monitor Closely,-3.0,0
+PO00244,V0016,Pi Hardware Ltd,Manufacturing,Safety Gloves,30,239,128608.29,10.67,10,9.58,8.13,38.38,🟡 MEDIUM — Monitor Closely,13.0,1
+PO00245,V0005,Epsilon Electronics,Logistics,Laptop,42,443,507372.33,13.33,10,17.76,6.35,47.44,🟡 MEDIUM — Monitor Closely,,0
+PO00246,V0013,Nu Paper Mills,Office Supplies,Conveyor Belt,38,101,169965.83,12.63,10,4.05,9.4,36.08,🟡 MEDIUM — Monitor Closely,,0
+PO00247,V0016,Pi Hardware Ltd,Manufacturing,Consulting Hours,29,495,1797646.95,10.67,10,19.84,8.13,48.64,🟡 MEDIUM — Monitor Closely,-1.0,0
+PO00248,V0018,Sigma Plastics Co,Packaging,Office Chair,11,251,241221.04,15.24,5,10.06,15.0,45.3,🟡 MEDIUM — Monitor Closely,20.0,1
+PO00249,V0003,Gamma Solutions Ltd,Office Supplies,Ethernet Cable,20,432,1370291.04,10.67,5,17.31,9.4,42.38,🟡 MEDIUM — Monitor Closely,,0
+PO00250,V0020,Upsilon AutoParts,Consulting,Software License,8,317,1016542.92,15.0,5,12.71,10.53,43.24,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00251,V0018,Sigma Plastics Co,Packaging,Electric Motor,39,272,985959.2,15.24,10,10.9,15.0,51.14,🟡 MEDIUM — Monitor Closely,,0
+PO00252,V0007,Eta Global Traders,Chemicals,Fire Extinguisher,29,269,211713.76,20.0,10,10.78,7.78,48.56,🟡 MEDIUM — Monitor Closely,20.0,1
+PO00253,V0019,Tau Energy Systems,Hardware,Chemical Solvent,26,492,1013441.28,9.41,10,19.72,7.57,46.7,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00254,V0016,Pi Hardware Ltd,Manufacturing,Office Chair,17,195,373813.05,10.67,5,7.82,8.13,31.62,🟢 LOW — Likely On Time,-1.0,0
+PO00255,V0004,Delta Manufacturing,IT Services,Diesel Generator,21,402,679295.58,17.78,5,16.11,9.27,48.16,🟡 MEDIUM — Monitor Closely,7.0,1
+PO00256,V0009,Iota Steel Works,Hardware,Aluminium Sheet,18,474,198141.48,18.67,5,19.0,7.57,50.24,🟡 MEDIUM — Monitor Closely,0.0,0
+PO00257,V0013,Nu Paper Mills,Office Supplies,Steel Rod,17,74,279250.84,12.63,5,2.97,9.4,30.0,🟢 LOW — Likely On Time,,0
+PO00258,V0011,Lambda Logistics,Electronics,Industrial Fan,12,347,1557266.6,15.65,5,13.91,12.74,47.3,🟡 MEDIUM — Monitor Closely,,0
+PO00259,V0003,Gamma Solutions Ltd,Office Supplies,Safety Gloves,27,224,268600.64,10.67,10,8.98,9.4,39.05,🟡 MEDIUM — Monitor Closely,15.0,1
+PO00260,V0013,Nu Paper Mills,Office Supplies,Packaging Box,44,117,211918.59,12.63,10,4.69,9.4,36.72,🟡 MEDIUM — Monitor Closely,,0
+PO00261,V0003,Gamma Solutions Ltd,Office Supplies,Steel Rod,16,409,519401.37,10.67,5,16.39,9.4,41.46,🟡 MEDIUM — Monitor Closely,,0
+PO00262,V0003,Gamma Solutions Ltd,Office Supplies,Laptop,35,163,299181.61,10.67,10,6.53,9.4,36.6,🟡 MEDIUM — Monitor Closely,5.0,1
+PO00263,V0015,Omicron IT Services,Logistics,Aluminium Sheet,13,45,43991.55,15.0,5,1.8,6.35,28.15,🟢 LOW — Likely On Time,5.0,1
+PO00264,V0011,Lambda Logistics,Electronics,Industrial Fan,25,48,144229.44,15.65,10,1.92,12.74,40.31,🟡 MEDIUM — Monitor Closely,,0
+PO00265,V0008,Theta Packaging Co,Packaging,Conveyor Belt,31,464,2303300.64,17.5,10,18.6,15.0,61.1,🔴 HIGH — Likely Delayed,9.0,1
+PO00266,V0003,Gamma Solutions Ltd,Office Supplies,Server Rack,24,138,343752.48,10.67,10,5.53,9.4,35.6,🟡 MEDIUM — Monitor Closely,,0
+PO00267,V0008,Theta Packaging Co,Packaging,Software License,36,185,239743.35,17.5,10,7.41,15.0,49.91,🟡 MEDIUM — Monitor Closely,17.0,1
+PO00268,V0020,Upsilon AutoParts,Consulting,Industrial Fan,35,486,976218.48,15.0,10,19.48,10.53,55.01,🔴 HIGH — Likely Delayed,18.0,1
+PO00269,V0020,Upsilon AutoParts,Consulting,A4 Paper Ream,27,70,107600.5,15.0,10,2.81,10.53,38.34,🟡 MEDIUM — Monitor Closely,18.0,1
+PO00270,V0016,Pi Hardware Ltd,Manufacturing,Conveyor Belt,27,377,1315745.08,10.67,10,15.11,8.13,43.91,🟡 MEDIUM — Monitor Closely,,0
+PO00271,V0007,Eta Global Traders,Chemicals,Conveyor Belt,42,59,275160.07,20.0,10,2.36,7.78,40.14,🟡 MEDIUM — Monitor Closely,10.0,1
+PO00272,V0003,Gamma Solutions Ltd,Office Supplies,Packaging Box,15,225,899671.5,10.67,5,9.02,9.4,34.09,🟢 LOW — Likely On Time,7.0,1
+PO00273,V0013,Nu Paper Mills,Office Supplies,Steel Rod,45,79,283643.18,12.63,10,3.17,9.4,35.2,🟡 MEDIUM — Monitor Closely,,0
+PO00274,V0014,Xi Furniture Works,IT Services,Aluminium Sheet,30,473,2178609.62,18.46,10,18.96,9.27,56.69,🔴 HIGH — Likely Delayed,,0
+PO00275,V0006,Zeta Raw Materials,Manufacturing,Fire Extinguisher,43,337,1125657.51,10.0,10,13.51,8.13,41.64,🟡 MEDIUM — Monitor Closely,,0
+PO00276,V0008,Theta Packaging Co,Packaging,Diesel Generator,35,6,3228.6,17.5,10,0.24,15.0,42.74,🟡 MEDIUM — Monitor Closely,15.0,1
+PO00277,V0005,Epsilon Electronics,Logistics,Network Switch,37,302,1047233.32,13.33,10,12.1,6.35,41.78,🟡 MEDIUM — Monitor Closely,-2.0,0
+PO00278,V0005,Epsilon Electronics,Logistics,Network Switch,28,60,249901.2,13.33,10,2.4,6.35,32.08,🟢 LOW — Likely On Time,,0
+PO00279,V0015,Omicron IT Services,Logistics,Consulting Hours,11,179,430853.0,15.0,5,7.17,6.35,33.52,🟢 LOW — Likely On Time,-5.0,0
+PO00280,V0004,Delta Manufacturing,IT Services,Server Rack,40,12,51041.28,17.78,10,0.48,9.27,37.53,🟡 MEDIUM — Monitor Closely,5.0,1
+PO00281,V0008,Theta Packaging Co,Packaging,Industrial Fan,18,219,1049971.41,17.5,5,8.78,15.0,46.28,🟡 MEDIUM — Monitor Closely,,0
+PO00282,V0019,Tau Energy Systems,Hardware,Packaging Box,7,453,465122.28,9.41,5,18.16,7.57,40.14,🟡 MEDIUM — Monitor Closely,18.0,1
+PO00283,V0019,Tau Energy Systems,Hardware,Printer,30,415,1655949.6,9.41,10,16.63,7.57,43.61,🟡 MEDIUM — Monitor Closely,-20.0,0
+PO00284,V0016,Pi Hardware Ltd,Manufacturing,Diesel Generator,45,135,454945.95,10.67,10,5.41,8.13,34.21,🟢 LOW — Likely On Time,,0
+PO00285,V0015,Omicron IT Services,Logistics,Fire Extinguisher,26,179,320827.07,15.0,10,7.17,6.35,38.52,🟡 MEDIUM — Monitor Closely,,0
+PO00286,V0010,Kappa Office Supplies,Consulting,Printer,30,161,101980.62,28.57,10,6.45,10.53,55.55,🔴 HIGH — Likely Delayed,8.0,1
+PO00287,V0014,Xi Furniture Works,IT Services,Server Rack,41,71,205565.59,18.46,10,2.85,9.27,40.58,🟡 MEDIUM — Monitor Closely,8.0,1
+PO00288,V0015,Omicron IT Services,Logistics,Fire Extinguisher,29,72,70282.08,15.0,10,2.89,6.35,34.24,🟢 LOW — Likely On Time,1.0,1
+PO00289,V0018,Sigma Plastics Co,Packaging,Diesel Generator,33,418,815317.36,15.24,10,16.75,15.0,56.99,🔴 HIGH — Likely Delayed,,0
+PO00290,V0019,Tau Energy Systems,Hardware,Laptop,25,251,220352.9,9.41,10,10.06,7.57,37.04,🟡 MEDIUM — Monitor Closely,18.0,1
+PO00291,V0015,Omicron IT Services,Logistics,Conveyor Belt,42,148,130629.24,15.0,10,5.93,6.35,37.28,🟡 MEDIUM — Monitor Closely,,0
+PO00292,V0012,Mu Chemical Corp,Raw Materials,Aluminium Sheet,35,138,536379.78,12.0,10,5.53,12.35,39.88,🟡 MEDIUM — Monitor Closely,,0
+PO00293,V0008,Theta Packaging Co,Packaging,Electric Motor,35,377,1567886.45,17.5,10,15.11,15.0,57.61,🔴 HIGH — Likely Delayed,16.0,1
+PO00294,V0008,Theta Packaging Co,Packaging,A4 Paper Ream,34,444,2206719.96,17.5,10,17.8,15.0,60.3,🔴 HIGH — Likely Delayed,-4.0,0
+PO00295,V0012,Mu Chemical Corp,Raw Materials,Aluminium Sheet,45,413,141997.66,12.0,10,16.55,12.35,50.9,🟡 MEDIUM — Monitor Closely,,0
+PO00296,V0009,Iota Steel Works,Hardware,Diesel Generator,15,150,222330.0,18.67,5,6.01,7.57,37.25,🟡 MEDIUM — Monitor Closely,,0
+PO00297,V0005,Epsilon Electronics,Logistics,Chemical Solvent,27,65,228933.9,13.33,10,2.61,6.35,32.29,🟢 LOW — Likely On Time,-1.0,0
+PO00298,V0014,Xi Furniture Works,IT Services,Industrial Fan,11,296,941395.44,18.46,5,11.86,9.27,44.59,🟡 MEDIUM — Monitor Closely,-3.0,0
+PO00299,V0012,Mu Chemical Corp,Raw Materials,Consulting Hours,27,356,1667810.16,12.0,10,14.27,12.35,48.62,🟡 MEDIUM — Monitor Closely,,0
+PO00300,V0012,Mu Chemical Corp,Raw Materials,Steel Rod,20,375,1823302.5,12.0,5,15.03,12.35,44.38,🟡 MEDIUM — Monitor Closely,,0

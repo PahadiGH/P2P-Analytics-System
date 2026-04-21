@@ -1,0 +1,21 @@
+VendorName,AvgDelay,MaxDelay,TotalOrders
+Eta Global Traders,11.0,20.0,5
+Mu Chemical Corp,10.75,20.0,4
+Sigma Plastics Co,10.5,20.0,10
+Lambda Logistics,10.5,19.0,10
+Theta Packaging Co,9.0,17.0,9
+BetaCore Industries,7.166666666666667,20.0,12
+Xi Furniture Works,7.111111111111111,19.0,9
+Pi Hardware Ltd,7.0,20.0,7
+Upsilon AutoParts,7.0,18.0,10
+Kappa Office Supplies,6.666666666666667,17.0,6
+Gamma Solutions Ltd,6.5,18.0,6
+Iota Steel Works,6.222222222222222,12.0,9
+Nu Paper Mills,5.888888888888889,19.0,9
+Epsilon Electronics,5.75,20.0,12
+Delta Manufacturing,5.181818181818182,19.0,11
+Alpha Tech Supplies,4.666666666666667,20.0,6
+Tau Energy Systems,3.5,18.0,8
+Zeta Raw Materials,3.3333333333333335,20.0,6
+Omicron IT Services,2.0,9.0,9
+Rho Consulting Group,1.375,19.0,8

@@ -1,0 +1,21 @@
+VendorName,TotalInvoices,AvgPaymentDelay,LatePayments,TotalAmountPaid,OnTimePaymentRate
+Alpha Tech Supplies,4,11.25,3,3171542.12,25.0
+BetaCore Industries,6,18.5,5,5102862.399999999,16.67
+Delta Manufacturing,9,4.666666666666667,6,6990933.7,33.33
+Epsilon Electronics,6,-0.16666666666666666,5,5171790.78,16.67
+Eta Global Traders,3,-3.3333333333333335,2,2233995.96,33.33
+Gamma Solutions Ltd,2,8.0,2,1156812.76,0.0
+Iota Steel Works,4,14.75,4,3341865.83,0.0
+Kappa Office Supplies,3,19.333333333333332,3,1673016.25,0.0
+Lambda Logistics,4,19.0,4,4515741.99,0.0
+Mu Chemical Corp,1,-11.0,0,212383.22,100.0
+Nu Paper Mills,4,-1.5,3,1931711.68,25.0
+Omicron IT Services,4,6.5,4,4220084.600000001,0.0
+Pi Hardware Ltd,5,14.2,4,4523742.64,20.0
+Rho Consulting Group,6,-5.5,3,2497118.7800000003,50.0
+Sigma Plastics Co,6,1.3333333333333333,4,4217399.09,33.33
+Tau Energy Systems,5,9.2,3,1826817.06,40.0
+Theta Packaging Co,6,9.833333333333334,4,6778092.75,33.33
+Upsilon AutoParts,5,-4.8,3,5818206.14,40.0
+Xi Furniture Works,5,18.0,5,2957201.0300000003,0.0
+Zeta Raw Materials,5,8.4,3,2069467.63,40.0

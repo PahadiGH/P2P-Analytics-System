@@ -1,0 +1,11 @@
+Category,AvgDays,MedianDays,MinDays,MaxDays,Count
+IT Services,98.92857142857143,100.5,58.0,142.0,14
+Hardware,97.55555555555556,98.0,68.0,125.0,9
+Packaging,95.08333333333333,102.0,31.0,121.0,12
+Raw Materials,94.42857142857143,101.0,67.0,133.0,7
+Electronics,92.375,98.0,54.0,120.0,8
+Manufacturing,91.7,87.5,54.0,131.0,10
+Consulting,89.25,88.0,52.0,133.0,8
+Office Supplies,85.5,92.0,47.0,103.0,6
+Chemicals,82.33333333333333,99.0,4.0,116.0,9
+Logistics,81.2,83.0,35.0,107.0,10

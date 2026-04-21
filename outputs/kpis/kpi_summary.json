@@ -1,0 +1,15 @@
+{
+  "TotalSpendUSD": 208281998.36,
+  "TotalInvoicedUSD": 116785463.43,
+  "TotalPaidUSD": 70410786.41,
+  "DiscountsCapturedUSD": 46403.51,
+  "AvgPOValueUSD": 694273.33,
+  "TotalVendors": 20,
+  "AvgVendorScore": 66.07,
+  "OnTimeDeliveryRate_Pct": 33.13,
+  "AvgDeliveryDelay_Days": 6.49,
+  "OnTimePaymentRate_Pct": 24.73,
+  "AvgPaymentDelay_Days": 7.14,
+  "AvgCycleTime_Days": 91.41,
+  "DPO_Days": 91.41
+}

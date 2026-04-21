@@ -1,0 +1,21 @@
+VendorID,VendorName,Country,Category,PaymentTerms,Rating,IsActive,ContactEmail,CreditLimit,OnboardingDate
+V0001,Alpha Tech Supplies,USA,Electronics,NET30,4.4,Yes,contact@alphatechsupplies.com,100000,2018-10-13
+V0002,BetaCore Industries,USA,Raw Materials,2/10NET30,2.7,No,contact@betacoreindustries.com,50000,2018-03-03
+V0003,Gamma Solutions Ltd,USA,Office Supplies,NET45,3.1,Yes,contact@gammasolutionsltd.com,1000000,2019-02-12
+V0004,Delta Manufacturing,France,IT Services,NET15,3.1,Yes,contact@deltamanufacturing.com,50000,2022-04-04
+V0005,Epsilon Electronics,Germany,Logistics,NET15,3.4,Yes,contact@epsilonelectronics.com,100000,2022-04-13
+V0006,Zeta Raw Materials,Japan,Manufacturing,NET30,2.7,Yes,contact@zetarawmaterials.com,200000,2022-10-02
+V0007,Eta Global Traders,Japan,Chemicals,2/10NET30,3.2,Yes,contact@etaglobaltraders.com,500000,2021-01-03
+V0008,Theta Packaging Co,USA,Packaging,NET15,2.7,Yes,contact@thetapackagingco.com,1000000,2022-12-19
+V0009,Iota Steel Works,Japan,Hardware,2/10NET30,3.0,Yes,contact@iotasteelworks.com,50000,2021-09-16
+V0010,Kappa Office Supplies,UK,Consulting,NET60,5.0,Yes,contact@kappaofficesupplies.com,50000,2020-02-18
+V0011,Lambda Logistics,China,Electronics,NET15,4.1,Yes,contact@lambdalogistics.com,100000,2020-01-29
+V0012,Mu Chemical Corp,Japan,Raw Materials,NET45,4.2,Yes,contact@muchemicalcorp.com,1000000,2021-07-24
+V0013,Nu Paper Mills,Germany,Office Supplies,2/10NET30,4.3,Yes,contact@nupapermills.com,500000,2020-02-17
+V0014,Xi Furniture Works,China,IT Services,2/10NET30,3.0,Yes,contact@xifurnitureworks.com,50000,2019-04-15
+V0015,Omicron IT Services,India,Logistics,NET60,3.5,Yes,contact@omicronitservices.com,100000,2021-03-07
+V0016,Pi Hardware Ltd,Japan,Manufacturing,NET45,4.1,No,contact@pihardwareltd.com,500000,2018-10-20
+V0017,Rho Consulting Group,China,Chemicals,NET45,3.1,Yes,contact@rhoconsultinggroup.com,1000000,2020-05-27
+V0018,Sigma Plastics Co,Australia,Packaging,NET15,3.4,Yes,contact@sigmaplasticsco.com,1000000,2020-10-07
+V0019,Tau Energy Systems,USA,Hardware,NET30,4.7,Yes,contact@tauenergysystems.com,100000,2022-06-11
+V0020,Upsilon AutoParts,UAE,Consulting,2/10NET30,2.7,No,contact@upsilonautoparts.com,1000000,2020-08-16

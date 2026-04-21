@@ -1,0 +1,21 @@
+VendorID,VendorName,Category,Rating,TotalOrders,TotalSpend,AvgDeliveryDelay,LateDeliveries,TotalDeliveries,AvgFulfillmentRate,PassedInspections,OnTimeDeliveryRate,InspectionPassRate,VendorScore,PerformanceTier
+V0019,Tau Energy Systems,Hardware,4.7,17,8916966.5,3.5,4,17,88.8425,7,76.47,41.18,74.88,B - Good
+V0001,Alpha Tech Supplies,Electronics,4.4,10,8052773.33,4.666666666666667,3,10,86.07666666666667,5,70.0,50.0,72.62,B - Good
+V0006,Zeta Raw Materials,Manufacturing,2.7,8,4374587.92,3.3333333333333335,2,8,88.19666666666667,4,75.0,50.0,71.86,B - Good
+V0012,Mu Chemical Corp,Raw Materials,4.2,10,6823732.01,10.75,3,10,89.1025,4,70.0,40.0,71.13,B - Good
+V0003,Gamma Solutions Ltd,Office Supplies,3.1,15,8235014.86,6.5,4,15,88.79333333333334,5,73.33,33.33,68.84,C - Average
+V0016,Pi Hardware Ltd,Manufacturing,4.1,15,11687363.96,7.0,4,15,87.57714285714285,3,73.33,20.0,67.81,C - Average
+V0013,Nu Paper Mills,Office Supplies,4.3,19,11520192.28,5.888888888888889,6,19,89.1511111111111,4,68.42,21.05,66.92,C - Average
+V0020,Upsilon AutoParts,Consulting,2.7,16,11071266.42,7.0,6,16,90.59,7,62.5,43.75,66.33,C - Average
+V0015,Omicron IT Services,Logistics,3.5,16,10202698.129999999,2.0,6,16,85.24555555555555,7,62.5,43.75,66.32,C - Average
+V0011,Lambda Logistics,Electronics,4.1,23,18005083.35,10.5,9,23,91.009,7,60.87,30.43,65.94,C - Average
+V0018,Sigma Plastics Co,Packaging,3.4,21,14429657.04,10.5,8,21,93.58,6,61.9,28.57,65.35,C - Average
+V0017,Rho Consulting Group,Chemicals,3.1,15,11539145.43,1.375,5,15,89.5675,4,66.67,26.67,65.07,C - Average
+V0005,Epsilon Electronics,Logistics,3.4,18,12628647.57,5.75,6,18,88.57833333333333,4,66.67,22.22,64.49,C - Average
+V0009,Iota Steel Works,Hardware,3.0,15,11382034.07,6.222222222222222,7,15,89.10111111111111,7,53.33,46.67,63.4,C - Average
+V0004,Delta Manufacturing,IT Services,3.1,18,10595955.84,5.181818181818182,8,18,90.44545454545454,7,55.56,38.89,63.34,C - Average
+V0014,Xi Furniture Works,IT Services,3.0,13,9991456.14,7.111111111111111,6,13,88.22222222222223,6,53.85,46.15,63.24,C - Average
+V0008,Theta Packaging Co,Packaging,2.7,16,13082061.219999999,9.0,7,16,84.37333333333333,8,56.25,50.0,63.21,C - Average
+V0002,BetaCore Industries,Raw Materials,2.7,20,17172818.06,7.166666666666667,8,20,85.8775,8,60.0,40.0,63.16,C - Average
+V0010,Kappa Office Supplies,Consulting,5.0,7,3883477.32,6.666666666666667,5,7,93.57833333333333,4,28.57,57.14,60.93,C - Average
+V0007,Eta Global Traders,Chemicals,3.2,8,4687066.91,11.0,4,8,91.994,1,50.0,12.5,56.5,C - Average
