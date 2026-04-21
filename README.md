@@ -192,13 +192,8 @@ Data Sources     →  Python Pipeline  →  Analytics Layer  →  Presentation
 
 ## 👤 Author
 
-**[Your Name]**  
+**Snehashish Pahadi**  
 SAP Analytics Enthusiast | Data Engineer | BI Developer  
-
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile URL]  
-🐙 [GitHub Profile URL]  
-
 ---
 
 ## 📄 License
